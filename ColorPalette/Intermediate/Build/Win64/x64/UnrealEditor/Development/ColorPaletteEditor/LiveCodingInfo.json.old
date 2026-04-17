@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ColorPaletteEditor.cpp.obj": [
+			"FColorPaletteCustomization.cpp.obj",
+			"FSlateColorPaletteCustomization.cpp.obj",
+			"ColorPaletteGraphPanelPinFactory.cpp.obj",
+			"ColorPaletteEditor.cpp.obj",
+			"SColorPaletteEntity.cpp.obj",
+			"SColorPaletteSelector.cpp.obj",
+			"SPaletteColorPicker.cpp.obj",
+			"SPaletteGraphPinColor.cpp.obj"
+		]
+	}
+}

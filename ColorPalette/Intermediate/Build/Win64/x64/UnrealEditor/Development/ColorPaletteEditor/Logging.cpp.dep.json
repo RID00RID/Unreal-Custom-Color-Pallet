@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\gitproject\\ashenskies\\plugins\\colorpalette\\source\\colorpaletteeditor\\private\\logging.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\gitproject\\ashenskies\\intermediate\\build\\win64\\x64\\ashenskieseditor\\development\\unrealed\\sharedpch.unrealed.project.novalfmtstr.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\gitproject\\ashenskies\\plugins\\colorpalette\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\colorpaletteeditor\\definitions.colorpaletteeditor.h",
+            "c:\\gitproject\\ashenskies\\plugins\\colorpalette\\source\\colorpaletteeditor\\private\\logging.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

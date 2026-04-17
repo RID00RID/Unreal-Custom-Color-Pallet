@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ColorPaletteEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\GitProject\AshenSkies\Intermediate\Build\Win64\x64\AshenSkiesEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.NoValFmtStr.ValApi.Cpp20.InclOrderOldest.h.obj"
+"C:\GitProject\AshenSkies\Plugins\ColorPalette\Intermediate\Build\Win64\x64\UnrealEditor\Development\ColorPaletteEditor\Module.ColorPaletteEditor.cpp.obj"
+"C:\GitProject\AshenSkies\Plugins\ColorPalette\Intermediate\Build\Win64\x64\UnrealEditor\Development\ColorPaletteEditor\SPaletteGraphPinColor.cpp.obj"
+"C:\GitProject\AshenSkies\Plugins\ColorPalette\Intermediate\Build\Win64\x64\UnrealEditor\Development\ColorPaletteEditor\Default.rc2.res"
+/OUT:"C:\GitProject\AshenSkies\Plugins\ColorPalette\Intermediate\Build\Win64\x64\UnrealEditor\Development\ColorPaletteEditor\UnrealEditor-ColorPaletteEditor.lib"

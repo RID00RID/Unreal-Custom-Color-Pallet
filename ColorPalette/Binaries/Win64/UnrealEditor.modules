@@ -1,0 +1,8 @@
+{
+	"BuildId": "33043543",
+	"Modules": 
+	{
+		"ColorPalette": "UnrealEditor-ColorPalette.dll",
+		"ColorPaletteEditor": "UnrealEditor-ColorPaletteEditor.dll"
+	}
+}

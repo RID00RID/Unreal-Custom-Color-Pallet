@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\gitproject\\ashenskies\\plugins\\colorpalette\\source\\colorpaletteeditor\\factoryes\\colorpalettegraphpanelpinfactory.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\gitproject\\ashenskies\\intermediate\\build\\win64\\x64\\ashenskieseditor\\development\\unrealed\\sharedpch.unrealed.project.novalfmtstr.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\gitproject\\ashenskies\\plugins\\colorpalette\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\colorpaletteeditor\\definitions.colorpaletteeditor.h",
+            "c:\\gitproject\\ashenskies\\plugins\\colorpalette\\source\\colorpaletteeditor\\factoryes\\colorpalettegraphpanelpinfactory.h",
+            "c:\\ueeditor\\ue_5.4\\engine\\source\\editor\\unrealed\\public\\edgraphutilities.h",
+            "c:\\ueeditor\\ue_5.4\\engine\\source\\editor\\grapheditor\\public\\sgraphpin.h",
+            "c:\\ueeditor\\ue_5.4\\engine\\source\\editor\\grapheditor\\public\\sgraphnode.h",
+            "c:\\ueeditor\\ue_5.4\\engine\\source\\editor\\grapheditor\\public\\snodepanel.h",
+            "c:\\ueeditor\\ue_5.4\\engine\\source\\runtime\\engine\\public\\diffresults.h",
+            "c:\\ueeditor\\ue_5.4\\engine\\source\\editor\\grapheditor\\public\\marqueeoperation.h",
+            "c:\\ueeditor\\ue_5.4\\engine\\source\\runtime\\slate\\public\\widgets\\layout\\swrapbox.h",
+            "c:\\gitproject\\ashenskies\\plugins\\colorpalette\\source\\colorpaletteeditor\\pinstyle\\spalettegraphpincolor.h",
+            "c:\\ueeditor\\ue_5.4\\engine\\source\\editor\\grapheditor\\public\\kismetpins\\sgraphpincolor.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+	"BuildId": "33043543",
+	"Modules": 
+	{
+		"ColorPalette": "UnrealEditor-ColorPalette-Win64-DebugGame.dll",
+		"ColorPaletteEditor": "UnrealEditor-ColorPaletteEditor-Win64-DebugGame.dll"
+	}
+}

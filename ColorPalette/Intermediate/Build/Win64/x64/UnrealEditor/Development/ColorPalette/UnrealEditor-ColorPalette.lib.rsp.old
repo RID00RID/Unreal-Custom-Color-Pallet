@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ColorPalette.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\GitProject\AshenSkies\Intermediate\Build\Win64\x64\AshenSkiesEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.NoValFmtStr.ValApi.Cpp20.InclOrderOldest.h.obj"
+"C:\GitProject\AshenSkies\Plugins\ColorPalette\Intermediate\Build\Win64\x64\UnrealEditor\Development\ColorPalette\Module.ColorPalette.cpp.obj"
+"C:\GitProject\AshenSkies\Plugins\ColorPalette\Intermediate\Build\Win64\x64\UnrealEditor\Development\ColorPalette\ColorPaletteCore.cpp.obj"
+"C:\GitProject\AshenSkies\Plugins\ColorPalette\Intermediate\Build\Win64\x64\UnrealEditor\Development\ColorPalette\ColorPaletteSettings.cpp.obj"
+"C:\GitProject\AshenSkies\Plugins\ColorPalette\Intermediate\Build\Win64\x64\UnrealEditor\Development\ColorPalette\ColorPalette.cpp.obj"
+"C:\GitProject\AshenSkies\Plugins\ColorPalette\Intermediate\Build\Win64\x64\UnrealEditor\Development\ColorPalette\Default.rc2.res"
+/OUT:"C:\GitProject\AshenSkies\Plugins\ColorPalette\Intermediate\Build\Win64\x64\UnrealEditor\Development\ColorPalette\UnrealEditor-ColorPalette.lib"

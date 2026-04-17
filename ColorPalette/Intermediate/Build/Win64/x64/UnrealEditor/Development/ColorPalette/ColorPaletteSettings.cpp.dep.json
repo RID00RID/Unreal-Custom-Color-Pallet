@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\gitproject\\ashenskies\\plugins\\colorpalette\\source\\colorpalette\\core\\colorpalettesettings.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\gitproject\\ashenskies\\intermediate\\build\\win64\\x64\\ashenskieseditor\\development\\unrealed\\sharedpch.unrealed.project.novalfmtstr.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\gitproject\\ashenskies\\plugins\\colorpalette\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\colorpalette\\definitions.colorpalette.h",
+            "c:\\gitproject\\ashenskies\\plugins\\colorpalette\\source\\colorpalette\\core\\colorpalettesettings.h",
+            "c:\\gitproject\\ashenskies\\plugins\\colorpalette\\intermediate\\build\\win64\\unrealeditor\\inc\\colorpalette\\uht\\colorpalettesettings.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

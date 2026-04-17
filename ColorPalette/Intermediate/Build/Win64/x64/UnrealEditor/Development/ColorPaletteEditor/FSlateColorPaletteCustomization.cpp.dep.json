@@ -1,0 +1,26 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\gitproject\\ashenskies\\plugins\\colorpalette\\source\\colorpaletteeditor\\customization\\fslatecolorpalettecustomization.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\gitproject\\ashenskies\\intermediate\\build\\win64\\x64\\ashenskieseditor\\development\\unrealed\\sharedpch.unrealed.project.novalfmtstr.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\gitproject\\ashenskies\\plugins\\colorpalette\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\colorpaletteeditor\\definitions.colorpaletteeditor.h",
+            "c:\\gitproject\\ashenskies\\plugins\\colorpalette\\source\\colorpaletteeditor\\customization\\fslatecolorpalettecustomization.h",
+            "c:\\gitproject\\ashenskies\\plugins\\colorpalette\\source\\colorpaletteeditor\\customization\\fcolorpalettecustomization.h",
+            "c:\\ueeditor\\ue_5.4\\engine\\source\\editor\\detailcustomizations\\public\\customizations\\colorstructcustomization.h",
+            "c:\\ueeditor\\ue_5.4\\engine\\source\\editor\\detailcustomizations\\public\\customizations\\mathstructcustomizations.h",
+            "c:\\ueeditor\\ue_5.4\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "c:\\ueeditor\\ue_5.4\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "c:\\ueeditor\\ue_5.4\\engine\\source\\editor\\propertyeditor\\public\\detaillayoutbuilder.h",
+            "c:\\ueeditor\\ue_5.4\\engine\\source\\editor\\propertyeditor\\public\\idetailpropertyrow.h",
+            "c:\\ueeditor\\ue_5.4\\engine\\source\\editor\\propertyeditor\\public\\detailwidgetrow.h",
+            "c:\\ueeditor\\ue_5.4\\engine\\source\\editor\\propertyeditor\\public\\detailcategorybuilder.h",
+            "c:\\ueeditor\\ue_5.4\\engine\\source\\editor\\propertyeditor\\public\\idetailcustomnodebuilder.h",
+            "c:\\ueeditor\\ue_5.4\\engine\\source\\editor\\propertyeditor\\public\\detailbuildertypes.h",
+            "c:\\ueeditor\\ue_5.4\\engine\\source\\editor\\propertyeditor\\public\\propertyeditorcopypaste.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

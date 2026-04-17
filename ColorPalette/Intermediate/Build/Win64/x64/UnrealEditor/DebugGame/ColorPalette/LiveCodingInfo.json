@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ColorPalette.cpp.obj": [
+			"ColorPalette.init.gen.cpp.obj",
+			"ColorPaletteCore.gen.cpp.obj",
+			"ColorPaletteSettings.gen.cpp.obj",
+			"ColorPaletteCore.cpp.obj",
+			"ColorPaletteSettings.cpp.obj",
+			"ColorPalette.cpp.obj"
+		]
+	}
+}

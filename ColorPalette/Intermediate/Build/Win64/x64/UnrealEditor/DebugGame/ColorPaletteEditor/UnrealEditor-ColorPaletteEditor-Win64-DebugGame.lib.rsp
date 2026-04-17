@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ColorPaletteEditor-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\GitProject\AshenSkies\Intermediate\Build\Win64\x64\AshenSkiesEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.NoValFmtStr.ValApi.Cpp20.InclOrderOldest.h.obj"
+"C:\GitProject\AshenSkies\Plugins\ColorPalette\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\ColorPaletteEditor\Module.ColorPaletteEditor.cpp.obj"
+"C:\GitProject\AshenSkies\Plugins\ColorPalette\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\ColorPaletteEditor\Default.rc2.res"
+/OUT:"C:\GitProject\AshenSkies\Plugins\ColorPalette\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\ColorPaletteEditor\UnrealEditor-ColorPaletteEditor-Win64-DebugGame.lib"
