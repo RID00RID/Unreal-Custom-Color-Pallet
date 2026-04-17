@@ -1,57 +1,55 @@
 # Unreal Custom Color Palette
 
-Плагин для Unreal Engine, который позволяет удобно использовать единую цветовую палитру во всём проекте.  
-Все члены команды будут выбирать цвета только из заранее утверждённого набора, что обеспечивает единообразие UI, материалов, освещения и других элементов.
+A plugin for Unreal Engine that makes it easy to use a unified color palette across your entire project.  
+All team members will only choose colors from a pre-approved set, ensuring consistency in UI, materials, lighting, and other elements.
 
-## Возможности
+## Features
 
-- **Расширенный Color Picker** с вкладкой палитры  
-  При выборе любого цвета в редакторе (Material, Widget, Actor и т.д.) появляется удобная палитра с предустановленными цветами (как на скриншоте).
+- **Enhanced Color Picker** with a palette tab  
+  When selecting any color in the editor (Material, Widget, Actor, etc.), a convenient palette with preset colors appears (as shown in the screenshot).
 
-- **Предустановленная палитра "Default"**  
-  Включает базовые цвета: белый, серые тона, оранжевый, зелёный, голубой, красный и другие.
+- **Default Palette**  
+  Includes basic colors: white, various shades of gray, orange, green, cyan, red, and more.
 
-- **Поддержка нескольких категорий и палитр**  
-  В настройках проекта можно создавать собственные категории и таблицы цветов.
+- **Support for Multiple Categories and Palettes**  
+  In the project settings, you can create your own categories and color tables.
 
-- **Настройка через Project Settings**  
-  - Перейдите в **Edit → Project Settings → Game → Color Palette Settings**
-  - Добавляйте новые категории
-  - Заполняйте цвета через **TMap** (ключ — название цвета, значение — Linear Color)
-  - Настройки сохраняются в `DefaultGame.ini`
+- **Configuration via Project Settings**  
+  - Go to **Edit → Project Settings → Game → Color Palette Settings**  
+  - Add new categories  
+  - Fill colors using **TMap** (key — color name, value — Linear Color)  
+  - Settings are saved in `DefaultGame.ini`
 
-- **Экспорт / Импорт** палитр для удобной передачи между проектами
+- **Export / Import** palettes for easy transfer between projects
 
-- **Визуальный предпросмотр** выбранного цвета (Old / New)
+- **Visual preview** of the selected color (Old / New)
 
-## Как использовать
+## How to Use
 
-1. Установите плагин в проект (скопируйте папку плагина в `Plugins/` или включите через Epic Games Launcher).
-2. Откройте **Project Settings → Color Palette Settings**.
-3. В разделе **Registered Palettes** добавьте свои категории и заполните таблицу цветов.
-4. При выборе любого цвета в редакторе Unreal в Color Picker появится вкладка с вашей палитрой.
-5. Выбирайте нужный цвет — он будет автоматически применяться.
+1. Install the plugin into your project (copy the plugin folder to `Plugins/` or enable it via Epic Games Launcher).
+2. Open **Project Settings → Color Palette Settings**.
+3. In the **Registered Palettes** section, add your categories and fill in the color table.
+4. When selecting any color in the Unreal Editor, the Color Picker will now show a tab with your palette.
+5. Choose the desired color — it will be applied automatically.
 
-## Скриншоты
+## Screenshots
 
-![Color Picker с палитрой](https://github.com/RID00RID/Unreal-Custom-Color-Pallet/blob/main/screenshots/color_picker.png)
+![Color Picker with Palette](https://github.com/RID00RID/Unreal-Custom-Color-Pallet/blob/main/screenshots/color_picker.png)
 
-![Настройки палитры в Project Settings](https://github.com/RID00RID/Unreal-Custom-Color-Pallet/blob/main/screenshots/project_settings.png)
+![Color Palette Settings in Project Settings](https://github.com/RID00RID/Unreal-Custom-Color-Pallet/blob/main/screenshots/project_settings.png)
 
-## Для кого подойдёт
+## Who It's For
 
-- Командная разработка (UI/UX, геймдизайн, арт)
-- Проекты, где важно строгое соблюдение брендбука и цветовой гармонии
-- Любые проекты на Unreal Engine 5, где часто приходится выбирать цвета
+- Team development (UI/UX, game design, art)
+- Projects where strict adherence to brand book and color harmony is important
+- Any Unreal Engine 5 projects where you frequently need to select colors
 
-## Установка
+## Installation
 
-1. Скачайте репозиторий или релиз.
-2. Поместите папку плагина в директорию `YourProject/Plugins/`.
-3. Перезапустите Unreal Editor.
-4. Включите плагин в **Edit → Plugins** (если не включился автоматически).
+1. Download the repository or release.
+2. Place the plugin folder in your project directory: `YourProject/Plugins/`.
+3. Restart the Unreal Editor.
+4. Enable the plugin in **Edit → Plugins** (if it didn’t enable automatically).
 
-Автор: RID00RID  
-GitHub: https://github.com/RID00RID/Unreal-Custom-Color-Pallet
-
----
+**Author:** RID00RID  
+**GitHub:** https://github.com/RID00RID/Unreal-Custom-Color-Pallet
