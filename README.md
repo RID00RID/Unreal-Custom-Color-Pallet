@@ -34,9 +34,8 @@ All team members will only choose colors from a pre-approved set, ensuring consi
 
 ## Screenshots
 
-![Color Picker with Palette](https://github.com/RID00RID/Unreal-Custom-Color-Pallet/blob/main/screenshots/color_picker.png)
-
-![Color Palette Settings in Project Settings](https://github.com/RID00RID/Unreal-Custom-Color-Pallet/blob/main/screenshots/project_settings.png)
+<img width="456" height="607" alt="color_picker" src="https://github.com/user-attachments/assets/d710e538-9bfc-49b4-a74b-6d0bbeab8f12" />
+<img width="1918" height="1027" alt="project_settings" src="https://github.com/user-attachments/assets/6d661fb4-0fa6-4d73-8917-866aa23d9a53" />
 
 ## Who It's For
 
